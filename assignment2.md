@@ -9,6 +9,7 @@ Learn to use the **Pull Request (PR)** workflow to add new content, receive peer
 For this assignment, we are ignoring your previous work. You will create a brand-new file on a separate branch.
 
 1.  **Switch to Main:** Ensure you are on your main branch:
+    `git clone <your repo url here>`
     `git checkout main`
 2.  **Create a New Branch:** Create a branch specifically for this task:
     `git checkout -b add-resource-list`
