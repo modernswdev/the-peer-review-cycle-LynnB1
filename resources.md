@@ -8,9 +8,9 @@ Official documentation that explains repositories, branching strategies, pull re
 Interactive, hands-on tutorials that teach real-world GitHub workflows like pull requests, merge conflict resolution, and automation.
 [Try GitHub Skills](https://skills.github.com/)
 
-## Agile Manifesto
-A foundational guide outlining the core values and principles behind Agile software development.
-[View the Agile Manifesto](https://agilemanifesto.org/)
+## Atlassian Agile Coach
+A comprehensive guide covering Scrum, Kanban, sprint planning, and other Agile practices used in modern development teams.
+[Visit Atlassian Agile Coach](https://www.atlassian.com/agile)
 
 ## Docker Documentation
 Comprehensive free guides for learning containerization and deploying applications consistently across environments.
