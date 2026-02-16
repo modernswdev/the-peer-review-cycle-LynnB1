@@ -1,34 +1,16 @@
-## Git and GitHub for Beginners - Crash Course
-This is a beginner friendly YouTube tutorial that walks you through the basics of Git/GitHub.
+# GitHub Learning Lab
+An interactive tutorial that walks beginners through how to use GitHub features like repositories, branches, and pull requests.
+[Start Learning GitHub](https://lab.github.com/)
 
-[Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+## freeCodeCamp Software Development Curriculum
+A comprehensive learning platform that teaches full-stack software development through hands-on coding projects and certifications.
+[Visit freeCodeCamp](https://www.freecodecamp.org/)
 
+## MDN Web Docs
+A resource for developers that provides detailed documentation on programming languages, APIs, and web development concepts.
+[Explore MDN Web Docs](https://developer.mozilla.org/)
 
-## GitHub Skills
-This is a resource offered by GitHub full of interactive lessons and exercises. 
+## The Pragmatic Programmer (Book)
+A book that teaches practical strategies and best practices for improving software development skills and problem-solving.
+[View Book on Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
-[GitHub Skills](https://github.com/skills)
-
-
-## Free Coding Resources
-This is a website from freecodecamp.org, it provides lessons and exercises with several different kinds of coding languages.
-
-[Free Code Camp](https://www.freecodecamp.org/)
-# Different Resources we can use for this class
-
-## Arjun Codes Youtube
-This channel codes in python, but the ideas and structures can be applied to all languages. 
-[Arjun Codes Youtube](https://www.youtube.com/arjancodes)
-
-
-## CS Dojo Youtube
-This channel is another good one for algorithm and data structure tutorials etc.
-[CS Dojo Youtube](https://www.youtube.com/@CSDojo/featured)
-
-## The Awesome Repository
-It's a github repository for everything from programming languages to networking.
-[Awesome Respository](https://github.com/sindresorhus/awesome)
-
-## Article for Best Development Practices
-Goes over basics of software design and working in a team.
-[The Article](https://dev.to/jetthoughts/essential-development-best-practices-for-modern-software-projects-in-2025-f2f)
